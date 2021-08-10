@@ -1,5 +1,5 @@
 {
-    "name": "anteris-dev/laravel-autotask-client",
+    "name": "priet/laravel-autotask-client",
     "description": "Integrates the Autotask client into Laravel.",
     "autoload": {
         "psr-4": {
